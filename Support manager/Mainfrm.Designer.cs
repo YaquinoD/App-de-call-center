@@ -541,9 +541,9 @@
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.Location = new System.Drawing.Point(3, 195);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(164, 20);
+            this.label9.Size = new System.Drawing.Size(156, 20);
             this.label9.TabIndex = 6;
-            this.label9.Text = "Smart Targets Score :";
+            this.label9.Text = "Smart Target Score :";
             // 
             // label8
             // 
